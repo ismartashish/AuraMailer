@@ -1,7 +1,7 @@
 export default function Login() {
   const handleLogin = () => {
     // Backend Google OAuth endpoint (UNCHANGED)
-    window.location.href = "https://auramail.onrender.com/auth/google";
+    window.location.href = "https://auramail-2.onrender.com/auth/google";
   };
 
   return (
